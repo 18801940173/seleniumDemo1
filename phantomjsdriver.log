@@ -1,0 +1,13 @@
+[INFO  - 2018-12-24T09:16:39.547Z] GhostDriver - Main - running on port 26509
+[INFO  - 2018-12-24T09:16:40.914Z] Session [9fae80b0-075c-11e9-9a8a-8150ba604218] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-24T09:16:40.916Z] Session [9fae80b0-075c-11e9-9a8a-8150ba604218] - page.customHeaders:  - {}
+[INFO  - 2018-12-24T09:16:40.916Z] Session [9fae80b0-075c-11e9-9a8a-8150ba604218] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-24T09:16:40.917Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9fae80b0-075c-11e9-9a8a-8150ba604218
+[ERROR - 2018-12-24T09:16:42.151Z] Session [9fae80b0-075c-11e9-9a8a-8150ba604218] - page.onError - msg: ReferenceError: Can't find variable: c
+[ERROR - 2018-12-24T09:16:42.152Z] Session [9fae80b0-075c-11e9-9a8a-8150ba604218] - page.onError - stack:
+  sendLog (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:4)
+  (anonymous function) (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:5)
+[ERROR - 2018-12-24T09:16:43.680Z] Session [9fae80b0-075c-11e9-9a8a-8150ba604218] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209275328263174742_1545643002033')
+[ERROR - 2018-12-24T09:16:43.681Z] Session [9fae80b0-075c-11e9-9a8a-8150ba604218] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=1429_21081_28206_28131_26350_27750_28139_22157&csor=1&cb=jQuery110209275328263174742_1545643002033&_=1545643002035:1)
+[INFO  - 2018-12-24T09:16:46.016Z] ShutdownReqHand - _handle - About to shutdown
