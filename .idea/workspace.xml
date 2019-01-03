@@ -3,6 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="9e70630c-9029-4f8c-afda-eded2057af04" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day1/BrowserActionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day1/CloseBrowserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day1/FindElementsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day1/OpenBrowserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day1/TestNGDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day1/testNGDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day2/ActionTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day2/ActionsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day2/AlertsTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day2/SelectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day2/WaitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day2/WindowsSelectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day2/downloadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day3/GridTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day3/JSTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day3/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day3/PhantomJsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day3/RegisterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day3/SendEmailTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day4/DataDriverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/autowebjava/day4/LoginTest2.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,24 +78,24 @@
         <counts>
           <entry key="dummy" value="2" />
           <entry key="ft" value="53" />
-          <entry key="java" value="11175" />
-          <entry key="txt" value="35" />
-          <entry key="xml" value="416" />
+          <entry key="java" value="11214" />
+          <entry key="txt" value="49" />
+          <entry key="xml" value="417" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11175" />
-          <entry key="PLAIN_TEXT" value="37" />
+          <entry key="JAVA" value="11214" />
+          <entry key="PLAIN_TEXT" value="51" />
           <entry key="VTL" value="53" />
-          <entry key="XML" value="416" />
+          <entry key="XML" value="417" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="23" />
           <entry key="iml" value="1" />
-          <entry key="java" value="83" />
+          <entry key="java" value="84" />
           <entry key="log" value="1" />
           <entry key="xml" value="13" />
         </counts>
@@ -83,7 +104,7 @@
         <counts>
           <entry key="CLASS" value="23" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="83" />
+          <entry key="JAVA" value="84" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="13" />
         </counts>
@@ -95,29 +116,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1025">
-              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            <state relative-caret-position="450">
+              <caret line="66" column="18" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run-testng.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/autowebjava/day1/testNGDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/autowebjava/day1/TestNGDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="250">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -170,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/autowebjava/day4/LoginTest2.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/autowebjava/day4/commitTest.java" />
         <option value="$PROJECT_DIR$/run-testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/autowebjava/day1/TestNGDemo1.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -286,6 +302,36 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Selenium_Demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="autowebjava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_Demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="autowebjava" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -295,7 +341,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546499591550" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546505294409" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -322,25 +368,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestNGDemo1">
-    <configuration name="DataDriverTest.loginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Demo01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.autowebjava.day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.autowebjava.day4" />
-      <option name="MAIN_CLASS_NAME" value="com.autowebjava.day4.DataDriverTest" />
-      <option name="METHOD_NAME" value="loginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.testNGDemo2">
     <configuration name="GridTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Demo01" />
       <extension name="coverage">
@@ -409,20 +437,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testNGDemo2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Demo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.autowebjava.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.autowebjava.day1" />
+      <option name="MAIN_CLASS_NAME" value="com.autowebjava.day1.testNGDemo2" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="TestNG.DataDriverTest.loginTest" />
       <item itemvalue="TestNG.LoginTest2.loginSuccess" />
       <item itemvalue="TestNG.GridTest" />
       <item itemvalue="TestNG.GridTest.testGrid2" />
       <item itemvalue="TestNG.TestNGDemo1" />
+      <item itemvalue="TestNG.testNGDemo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.testNGDemo2" />
         <item itemvalue="TestNG.TestNGDemo1" />
         <item itemvalue="TestNG.GridTest.testGrid2" />
         <item itemvalue="TestNG.GridTest" />
         <item itemvalue="TestNG.LoginTest2.loginSuccess" />
-        <item itemvalue="TestNG.DataDriverTest.loginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +499,7 @@
       <workItem from="1546410711930" duration="3311000" />
       <workItem from="1546479095257" duration="1450000" />
       <workItem from="1546482961056" duration="942000" />
-      <workItem from="1546484535798" duration="5103000" />
+      <workItem from="1546484535798" duration="7855000" />
     </task>
     <task id="LOCAL-00001" summary="commitTest测试">
       <created>1546066807400</created>
@@ -492,13 +536,31 @@
       <option name="project" value="LOCAL" />
       <updated>1546499484988</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="utf-8">
+      <created>1546499658252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546499658252</updated>
+    </task>
+    <task id="LOCAL-00007" summary="搞错">
+      <created>1546504003424</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1546504003424</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pom文件设置UTF-8">
+      <created>1546505045214</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1546505045214</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GridTest_testChrome - 2018.12.27 at 15h 32m 19s.xml">
-      <configuration name="GridTest.testChrome" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="E__Selenium_Demo01_run-testng_xml - 2018.12.27 at 15h 40m 32s.xml">
       <configuration name="E:/Selenium_Demo01/run-testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -526,9 +588,12 @@
     <history-entry file="TestNGDemo1 - 2019.01.03 at 14h 13m 55s.xml">
       <configuration name="TestNGDemo1" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="testNGDemo2 - 2019.01.03 at 16h 47m 58s.xml">
+      <configuration name="testNGDemo2" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194387000" />
+    <option name="totallyTimeSpent" value="197139000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -541,7 +606,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5049669" side_tool="true" weight="0.26626325" />
       <window_info id="Image Layers" order="1" />
@@ -549,10 +613,10 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5049669" side_tool="true" weight="0.26626325" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49503312" visible="true" weight="0.15204236" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49503312" visible="true" weight="0.15204236" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34335443" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3430769" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2642089" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -615,7 +679,10 @@
     <MESSAGE value="pom修改" />
     <MESSAGE value="pom修改gbk" />
     <MESSAGE value="pom修改gbk改回utf-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom修改gbk改回utf-8" />
+    <MESSAGE value="utf-8" />
+    <MESSAGE value="搞错" />
+    <MESSAGE value="pom文件设置UTF-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="pom文件设置UTF-8" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/Java/jdk1.8.0_121/src.zip!/java/lang/InterruptedException.java">
@@ -693,13 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5350">
           <caret line="40" column="35" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/autowebjava/day1/testNGDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -913,8 +973,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/autowebjava/day1/TestNGDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="475">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="66" column="18" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -925,10 +992,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/autowebjava/day1/testNGDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1025">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="250">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
