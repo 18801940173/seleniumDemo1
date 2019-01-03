@@ -1,6 +1,5 @@
 package com.autowebjava.day1;
 
-import com.sun.xml.internal.ws.resources.XmlmessageMessages;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -41,6 +40,7 @@ public class testNGDemo2 {
 
     @Test
     public void aVoid(){
+//        Boolean a = false;
         Boolean a = false;
         Assert.assertFalse(a);
         System.out.println("验证assertFalse成功！");
@@ -48,7 +48,8 @@ public class testNGDemo2 {
 
     @Test
     public void aVoid1(){
-        Boolean a = true;
+//        Boolean a = true;
+        Boolean a  = true;
         Assert.assertTrue(a);
         System.out.println("验证assertTrue成功！");
     }
