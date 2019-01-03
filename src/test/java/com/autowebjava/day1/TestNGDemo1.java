@@ -1,5 +1,6 @@
 package com.autowebjava.day1;
 
+import org.testng.Assert;
 import org.testng.annotations.*;
 
 import javax.sound.midi.SoundbankResource;
@@ -15,6 +16,7 @@ public class TestNGDemo1 {
     @BeforeMethod
     public void beforeMethod(){
         System.out.println("这是BeforeMethod注解");
+        Assert.assertNotEquals(2,2);
     }
     @Test
     public void testCase1(){
