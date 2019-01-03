@@ -24,7 +24,7 @@ public class TestNGDemo1 {
     @Test
     public void testCase2(){
         System.out.println("这是@Test注解,case2");
-//        Assert.assertNotEquals(2,2);
+        Assert.assertNotEquals(2,2);
     }
     @AfterMethod
     public void afterMethod1(){
