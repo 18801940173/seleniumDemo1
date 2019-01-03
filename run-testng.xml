@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Default Suite" thread-count="2" parallel="methods">
+<!--<suite name="Default Suite" thread-count="2" parallel="methods">-->
+<suite name="Default Suite">
   <test name="Selenium_Demo01">
     <classes>
-      <class name="com.autowebjava.day3.GridTest">
+      <class name="com.autowebjava.day1.TestNGDemo1">
         <!--不包括的方法-->
         <methods>
           <exclude name="testChrome"/>
